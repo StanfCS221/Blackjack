@@ -1,0 +1,862 @@
+In state (33, None, (2, 1, 3, 1, 2)) Pi gives action Peek, but RL gives action Quit
+In state (36, 1, (3, 1, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (35, 4, (2, 3, 3, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (35, 2, (0, 0, 2, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (32, 2, (2, 3, 2, 1, 2)) Pi gives action Take, but RL gives action Peek
+In state (36, 1, (1, 2, 2, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (37, 1, (0, 1, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (39, 1, (2, 2, 2, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (37, None, (3, 2, 1, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (33, 0, (1, 3, 0, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (33, 2, (3, 2, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (35, 0, (1, 3, 0, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (33, 0, (2, 1, 1, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (32, 0, (1, 1, 3, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (35, 0, (1, 2, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (39, None, (1, 2, 3, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (38, 1, (1, 1, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (39, 0, (2, 0, 2, 0, 3)) Pi gives action Take, but RL gives action Quit
+In state (34, 2, (2, 3, 2, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (34, 2, (3, 0, 2, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, 4, (3, 2, 1, 2, 2)) Pi gives action Quit, but RL gives action Peek
+In state (38, 0, (2, 0, 1, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (32, 1, (0, 3, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (32, 2, (1, 3, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (35, None, (2, 2, 2, 1, 2)) Pi gives action Peek, but RL gives action Quit
+In state (31, 1, (1, 2, 3, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (37, 4, (0, 3, 3, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (34, 0, (3, 1, 1, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (36, 2, (3, 1, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (34, 0, (2, 0, 3, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (40, 1, (3, 1, 1, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (31, 1, (3, 2, 1, 2, 2)) Pi gives action Take, but RL gives action Peek
+In state (37, None, (2, 1, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (39, None, (3, 0, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (35, 2, (0, 2, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (38, 1, (2, 2, 3, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (35, 2, (3, 3, 2, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (38, 3, (3, 2, 2, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (31, 3, (3, 3, 2, 1, 2)) Pi gives action Take, but RL gives action Peek
+In state (35, 1, (3, 3, 0, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (36, 0, (1, 0, 0, 3, 2)) Pi gives action Take, but RL gives action Quit
+In state (35, None, (2, 0, 2, 3, 1)) Pi gives action Peek, but RL gives action Quit
+In state (32, 1, (3, 2, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (32, 3, (2, 1, 2, 3, 1)) Pi gives action Take, but RL gives action Peek
+In state (37, 0, (1, 0, 1, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (39, 0, (2, 3, 3, 2, 0)) Pi gives action Take, but RL gives action Peek
+In state (40, None, (1, 2, 2, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (33, 1, (3, 3, 2, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (34, 2, (0, 2, 1, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (34, 1, (3, 1, 1, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (34, 1, (3, 1, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (33, None, (0, 3, 1, 3, 1)) Pi gives action Peek, but RL gives action Quit
+In state (31, 3, (3, 1, 0, 3, 2)) Pi gives action Take, but RL gives action Quit
+In state (31, 0, (1, 3, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (39, 1, (3, 3, 2, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (35, 1, (2, 1, 1, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (37, 0, (3, 2, 1, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (31, 0, (3, 2, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (32, 4, (0, 3, 2, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (38, 0, (1, 2, 2, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, 1, (0, 3, 1, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (31, 1, (0, 3, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (39, 2, (0, 1, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (34, 0, (3, 3, 1, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (33, 2, (2, 0, 2, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (39, 3, (3, 0, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (37, 1, (0, 2, 0, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (32, 2, (3, 1, 3, 1, 2)) Pi gives action Take, but RL gives action Peek
+In state (39, None, (2, 3, 3, 2, 0)) Pi gives action Quit, but RL gives action Peek
+In state (31, 0, (2, 3, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (37, 0, (2, 1, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (35, None, (1, 2, 1, 3, 1)) Pi gives action Peek, but RL gives action Quit
+In state (36, 1, (2, 3, 2, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (33, 2, (0, 1, 3, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (36, 0, (2, 3, 0, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (32, 4, (3, 2, 2, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (32, None, (2, 3, 0, 1, 3)) Pi gives action Peek, but RL gives action Quit
+In state (31, 1, (2, 3, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (34, 2, (2, 2, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (39, 0, (2, 2, 0, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (34, 0, (3, 3, 3, 0, 2)) Pi gives action Take, but RL gives action Peek
+In state (35, 0, (2, 0, 2, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, None, (2, 0, 2, 1, 3)) Pi gives action Peek, but RL gives action Quit
+In state (35, 3, (1, 2, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (38, 0, (2, 1, 2, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (33, None, (1, 3, 2, 1, 2)) Pi gives action Peek, but RL gives action Quit
+In state (31, 2, (1, 0, 1, 3, 2)) Pi gives action Take, but RL gives action Quit
+In state (31, 3, (3, 2, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (36, 0, (1, 2, 0, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (34, 1, (0, 3, 0, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (35, None, (0, 0, 2, 2, 2)) Pi gives action Peek, but RL gives action Quit
+In state (40, 0, (1, 2, 2, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (34, 1, (1, 2, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (35, 1, (2, 2, 0, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (34, None, (0, 3, 2, 1, 2)) Pi gives action Peek, but RL gives action Quit
+In state (37, 1, (0, 3, 1, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (35, 2, (1, 0, 3, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (31, 1, (0, 2, 2, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, 0, (3, 3, 0, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (36, 4, (1, 3, 3, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (38, 2, (0, 3, 2, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (33, None, (3, 2, 1, 3, 1)) Pi gives action Peek, but RL gives action Quit
+In state (33, 2, (0, 3, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (37, None, (2, 3, 1, 1, 2)) Pi gives action Peek, but RL gives action Quit
+In state (36, None, (2, 3, 0, 3, 1)) Pi gives action Peek, but RL gives action Quit
+In state (31, 2, (1, 0, 3, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (32, 3, (1, 3, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (33, 1, (3, 2, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (32, 1, (2, 1, 2, 3, 1)) Pi gives action Take, but RL gives action Peek
+In state (33, 0, (1, 1, 2, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (36, 1, (1, 3, 3, 0, 2)) Pi gives action Take, but RL gives action Peek
+In state (31, 3, (2, 3, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (33, 2, (1, 2, 1, 2, 2)) Pi gives action Take, but RL gives action Peek
+In state (33, 1, (2, 1, 1, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (34, 1, (2, 3, 0, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (39, 0, (3, 0, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (32, 1, (0, 2, 1, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (35, 1, (0, 1, 1, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (34, None, (2, 3, 2, 2, 1)) Pi gives action Peek, but RL gives action Quit
+In state (34, None, (3, 0, 2, 3, 1)) Pi gives action Peek, but RL gives action Quit
+In state (39, 3, (2, 3, 3, 2, 0)) Pi gives action Quit, but RL gives action Peek
+In state (34, 2, (0, 1, 2, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (32, None, (1, 3, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (32, None, (0, 2, 3, 1, 2)) Pi gives action Peek, but RL gives action Quit
+In state (31, None, (3, 1, 2, 3, 1)) Pi gives action Peek, but RL gives action Quit
+In state (35, 2, (3, 1, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (31, 2, (1, 1, 2, 2, 2)) Pi gives action Take, but RL gives action Peek
+In state (36, 0, (3, 2, 2, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (37, None, (2, 3, 3, 1, 1)) Pi gives action Peek, but RL gives action Quit
+In state (32, 1, (2, 2, 1, 2, 2)) Pi gives action Take, but RL gives action Peek
+In state (40, 2, (3, 3, 1, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (36, 2, (0, 2, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (39, 4, (3, 3, 2, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (32, 3, (0, 2, 3, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (31, 2, (2, 1, 3, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (35, 0, (1, 2, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (36, 0, (1, 0, 2, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (36, 1, (0, 3, 2, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, 1, (1, 2, 1, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (32, 0, (2, 3, 0, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (37, 0, (3, 2, 3, 0, 2)) Pi gives action Take, but RL gives action Peek
+In state (34, 0, (3, 2, 0, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (32, 2, (2, 2, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, None, (3, 3, 0, 1, 3)) Pi gives action Peek, but RL gives action Quit
+In state (34, 2, (1, 1, 1, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (34, 2, (1, 1, 3, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (34, 4, (1, 2, 2, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (35, 0, (2, 3, 1, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (32, 2, (0, 0, 3, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (37, 4, (0, 3, 1, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (33, 0, (1, 3, 2, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (32, 3, (3, 1, 1, 1, 3)) Pi gives action Take, but RL gives action Peek
+In state (34, None, (0, 2, 1, 2, 2)) Pi gives action Peek, but RL gives action Quit
+In state (35, 2, (2, 3, 3, 0, 2)) Pi gives action Take, but RL gives action Peek
+In state (31, 1, (0, 2, 0, 3, 2)) Pi gives action Take, but RL gives action Quit
+In state (34, 1, (0, 2, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (37, 3, (2, 1, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (32, 0, (1, 3, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (32, 1, (1, 1, 3, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (38, 0, (1, 3, 1, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (33, 0, (3, 2, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (35, 2, (2, 1, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (37, 0, (2, 3, 1, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (33, 0, (1, 1, 0, 3, 2)) Pi gives action Take, but RL gives action Quit
+In state (38, 2, (3, 3, 3, 2, 0)) Pi gives action Quit, but RL gives action Peek
+In state (39, 0, (3, 1, 0, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (32, 1, (0, 1, 2, 2, 2)) Pi gives action Take, but RL gives action Peek
+In state (32, 4, (2, 2, 1, 2, 2)) Pi gives action Quit, but RL gives action Peek
+In state (39, 0, (1, 1, 0, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (31, 2, (1, 2, 3, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (40, 4, (2, 3, 2, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (39, 4, (1, 2, 3, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (33, 1, (3, 3, 0, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (33, 0, (2, 1, 3, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (34, 0, (2, 3, 2, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (34, 0, (3, 0, 2, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, 2, (3, 2, 1, 2, 2)) Pi gives action Take, but RL gives action Peek
+In state (40, 2, (3, 1, 1, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (32, 0, (1, 3, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (40, 1, (2, 3, 2, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (31, 4, (3, 3, 2, 1, 2)) Pi gives action Quit, but RL gives action Peek
+In state (37, 0, (2, 3, 3, 1, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, 0, (2, 0, 2, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (37, 2, (1, 3, 2, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (33, 2, (3, 0, 3, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (35, 0, (3, 3, 2, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (36, 1, (3, 3, 3, 1, 1)) Pi gives action Take, but RL gives action Quit
+In state (38, 1, (3, 2, 2, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (36, 4, (2, 1, 2, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (34, 2, (3, 2, 2, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (32, 0, (3, 1, 1, 1, 3)) Pi gives action Take, but RL gives action Peek
+In state (35, 1, (1, 3, 2, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (36, 1, (2, 1, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (33, 0, (2, 2, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (35, 0, (2, 2, 2, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (36, 0, (1, 1, 1, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (40, 1, (1, 3, 3, 2, 0)) Pi gives action Quit, but RL gives action Peek
+In state (32, 4, (1, 1, 3, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (37, 0, (2, 1, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (36, 1, (1, 1, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, 1, (3, 1, 0, 3, 2)) Pi gives action Take, but RL gives action Quit
+In state (40, 2, (2, 0, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (37, 1, (3, 2, 1, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (34, 2, (2, 2, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (32, 4, (0, 1, 2, 2, 2)) Pi gives action Quit, but RL gives action Peek
+In state (36, None, (3, 1, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (38, 4, (0, 1, 2, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (35, 0, (2, 0, 0, 3, 2)) Pi gives action Take, but RL gives action Quit
+In state (34, 4, (2, 0, 3, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (38, None, (0, 3, 2, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (31, 2, (0, 3, 1, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (31, 2, (0, 3, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (39, 1, (1, 2, 3, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (37, 2, (1, 1, 2, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (32, 3, (2, 3, 0, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (38, 1, (2, 2, 1, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (31, 0, (3, 1, 2, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (34, 1, (3, 3, 1, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (33, None, (1, 2, 3, 2, 1)) Pi gives action Peek, but RL gives action Quit
+In state (31, 3, (2, 0, 2, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (40, 4, (3, 1, 3, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (33, 1, (1, 1, 2, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (34, None, (0, 1, 2, 3, 1)) Pi gives action Peek, but RL gives action Quit
+In state (37, 1, (2, 1, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (36, 2, (2, 3, 2, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (40, 1, (3, 1, 3, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (32, 3, (2, 3, 2, 1, 2)) Pi gives action Take, but RL gives action Peek
+In state (36, 1, (3, 2, 0, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (31, 2, (2, 3, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (34, 3, (2, 2, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (39, 2, (2, 2, 2, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (34, 1, (3, 3, 3, 0, 2)) Pi gives action Take, but RL gives action Peek
+In state (33, 1, (1, 3, 0, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (31, 4, (1, 3, 2, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (32, None, (2, 2, 3, 2, 1)) Pi gives action Peek, but RL gives action Quit
+In state (34, 0, (2, 2, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (35, 1, (1, 3, 0, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (34, None, (1, 1, 1, 1, 3)) Pi gives action Peek, but RL gives action Quit
+In state (34, None, (1, 1, 3, 1, 2)) Pi gives action Peek, but RL gives action Quit
+In state (34, 2, (3, 1, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, 1, (1, 3, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (37, 4, (3, 2, 1, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (35, 1, (1, 2, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (32, None, (0, 0, 3, 3, 1)) Pi gives action Peek, but RL gives action Quit
+In state (38, 2, (1, 1, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (33, 2, (0, 0, 2, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (31, 0, (1, 0, 1, 3, 2)) Pi gives action Take, but RL gives action Quit
+In state (31, 1, (3, 2, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (39, None, (0, 1, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (38, 1, (0, 1, 2, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (32, 3, (1, 3, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (31, 2, (0, 2, 2, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, 3, (3, 1, 2, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (36, None, (0, 3, 0, 2, 2)) Pi gives action Peek, but RL gives action Quit
+In state (32, 2, (3, 0, 2, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (34, 4, (3, 3, 1, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (32, None, (0, 1, 0, 2, 3)) Pi gives action Peek, but RL gives action Quit
+In state (36, 0, (2, 0, 1, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (35, 1, (0, 1, 3, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (40, 3, (1, 2, 2, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (38, 2, (2, 2, 3, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (35, 3, (3, 3, 2, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (36, 2, (1, 3, 3, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (36, 0, (1, 3, 1, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (34, 2, (1, 0, 2, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (35, 2, (3, 0, 3, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (35, None, (2, 1, 3, 2, 1)) Pi gives action Peek, but RL gives action Quit
+In state (38, None, (3, 3, 3, 2, 0)) Pi gives action Quit, but RL gives action Peek
+In state (31, 3, (3, 3, 0, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (31, 1, (2, 3, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (33, 0, (1, 2, 1, 2, 2)) Pi gives action Take, but RL gives action Peek
+In state (33, 0, (1, 2, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (33, 1, (1, 1, 0, 3, 2)) Pi gives action Take, but RL gives action Quit
+In state (38, 3, (3, 3, 3, 2, 0)) Pi gives action Quit, but RL gives action Peek
+In state (32, 0, (2, 3, 2, 1, 2)) Pi gives action Take, but RL gives action Peek
+In state (32, 4, (2, 1, 2, 3, 1)) Pi gives action Quit, but RL gives action Peek
+In state (40, None, (3, 1, 1, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (39, 1, (2, 3, 3, 2, 0)) Pi gives action Quit, but RL gives action Peek
+In state (33, 1, (2, 1, 3, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (33, 2, (3, 3, 2, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, None, (1, 0, 1, 3, 2)) Pi gives action Peek, but RL gives action Quit
+In state (35, 0, (3, 1, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (31, 0, (1, 1, 2, 2, 2)) Pi gives action Take, but RL gives action Peek
+In state (31, 2, (1, 2, 1, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (32, 1, (2, 3, 0, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (37, 1, (3, 2, 3, 0, 2)) Pi gives action Take, but RL gives action Peek
+In state (34, 1, (3, 2, 0, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (35, 2, (2, 1, 1, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (39, 2, (3, 3, 2, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (34, None, (3, 2, 2, 1, 2)) Pi gives action Peek, but RL gives action Quit
+In state (31, 3, (1, 0, 1, 3, 2)) Pi gives action Take, but RL gives action Quit
+In state (39, 0, (1, 0, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (38, 4, (2, 2, 1, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (34, 0, (1, 1, 3, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (34, 2, (1, 2, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (33, None, (2, 0, 2, 2, 2)) Pi gives action Peek, but RL gives action Quit
+In state (38, 0, (2, 0, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (39, 3, (0, 1, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (37, 2, (0, 3, 1, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (37, 2, (0, 3, 3, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (36, 0, (3, 1, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, None, (1, 0, 3, 3, 1)) Pi gives action Peek, but RL gives action Quit
+In state (36, 0, (3, 1, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (38, 0, (1, 3, 3, 1, 1)) Pi gives action Take, but RL gives action Quit
+In state (37, 0, (3, 1, 0, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (37, 0, (3, 1, 2, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (36, 0, (1, 2, 2, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (33, 1, (2, 2, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (34, 1, (0, 3, 2, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (39, 0, (3, 0, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (36, 1, (3, 3, 1, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (32, 1, (1, 3, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (35, 1, (2, 2, 2, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (35, 0, (2, 3, 3, 0, 2)) Pi gives action Take, but RL gives action Peek
+In state (40, None, (2, 0, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (31, 1, (3, 3, 2, 1, 2)) Pi gives action Take, but RL gives action Peek
+In state (34, None, (2, 2, 1, 3, 1)) Pi gives action Peek, but RL gives action Quit
+In state (37, None, (1, 3, 0, 3, 1)) Pi gives action Peek, but RL gives action Quit
+In state (32, 3, (3, 1, 3, 1, 2)) Pi gives action Take, but RL gives action Peek
+In state (37, 1, (2, 3, 1, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (31, None, (1, 1, 0, 2, 3)) Pi gives action Peek, but RL gives action Quit
+In state (32, 2, (0, 2, 1, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (37, 0, (2, 2, 2, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (36, None, (0, 2, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (37, None, (1, 1, 2, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (35, 0, (2, 1, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (38, 0, (3, 3, 3, 2, 0)) Pi gives action Take, but RL gives action Peek
+In state (34, 1, (2, 3, 2, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, 3, (1, 1, 2, 2, 2)) Pi gives action Take, but RL gives action Peek
+In state (36, 1, (3, 2, 2, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (37, 4, (3, 2, 3, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (32, 1, (1, 3, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (32, 1, (0, 2, 3, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (31, 0, (1, 2, 3, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (40, 2, (2, 3, 2, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (37, 1, (2, 3, 3, 1, 1)) Pi gives action Take, but RL gives action Quit
+In state (40, 0, (3, 1, 1, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (31, 0, (3, 2, 1, 2, 2)) Pi gives action Take, but RL gives action Peek
+In state (33, 1, (0, 3, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, 2, (3, 3, 2, 1, 2)) Pi gives action Take, but RL gives action Peek
+In state (39, 0, (3, 2, 3, 1, 1)) Pi gives action Take, but RL gives action Quit
+In state (32, 2, (0, 3, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (37, 0, (1, 3, 2, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (32, 1, (3, 1, 1, 1, 3)) Pi gives action Take, but RL gives action Peek
+In state (33, 0, (3, 0, 3, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (36, 2, (2, 1, 2, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (36, 3, (3, 1, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (38, 3, (0, 3, 2, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (33, 3, (0, 3, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (38, 0, (3, 3, 1, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (40, 2, (1, 3, 3, 2, 0)) Pi gives action Quit, but RL gives action Peek
+In state (36, None, (0, 3, 2, 2, 1)) Pi gives action Peek, but RL gives action Quit
+In state (33, 3, (1, 2, 1, 2, 2)) Pi gives action Quit, but RL gives action Peek
+In state (33, 2, (3, 2, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (37, 1, (2, 1, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (33, 0, (2, 0, 2, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (33, 2, (2, 1, 1, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (34, 2, (0, 2, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (37, 1, (0, 2, 2, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (35, 2, (0, 1, 1, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (34, 1, (0, 2, 1, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (38, None, (1, 1, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (33, None, (0, 0, 2, 1, 3)) Pi gives action Peek, but RL gives action Quit
+In state (32, 0, (3, 1, 3, 1, 2)) Pi gives action Take, but RL gives action Peek
+In state (31, None, (1, 2, 3, 1, 2)) Pi gives action Peek, but RL gives action Quit
+In state (40, None, (3, 3, 1, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (32, None, (3, 0, 0, 2, 3)) Pi gives action Peek, but RL gives action Quit
+In state (32, 2, (3, 2, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (40, 0, (2, 0, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (34, 0, (3, 0, 0, 3, 2)) Pi gives action Take, but RL gives action Quit
+In state (32, None, (3, 0, 2, 2, 2)) Pi gives action Peek, but RL gives action Quit
+In state (34, 0, (2, 2, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (32, 2, (0, 1, 2, 2, 2)) Pi gives action Take, but RL gives action Peek
+In state (37, 0, (1, 3, 0, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, 3, (1, 2, 3, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (38, None, (2, 2, 3, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (34, 2, (3, 1, 1, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (35, 1, (1, 2, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (32, 2, (1, 0, 2, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (37, 0, (3, 0, 1, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (34, None, (1, 0, 2, 2, 2)) Pi gives action Peek, but RL gives action Quit
+In state (35, None, (3, 0, 3, 1, 2)) Pi gives action Peek, but RL gives action Quit
+In state (37, 0, (3, 0, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (35, None, (3, 3, 0, 3, 1)) Pi gives action Peek, but RL gives action Quit
+In state (37, 0, (1, 1, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (32, 3, (3, 0, 2, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (32, 3, (2, 2, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (38, 0, (2, 1, 0, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (33, 1, (1, 3, 2, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (35, 1, (2, 3, 1, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (32, 3, (0, 0, 3, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (32, 4, (3, 1, 1, 1, 3)) Pi gives action Quit, but RL gives action Peek
+In state (40, 2, (3, 1, 3, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (32, None, (2, 1, 0, 3, 2)) Pi gives action Peek, but RL gives action Quit
+In state (33, 1, (1, 2, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (33, 4, (2, 2, 2, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (35, 0, (1, 0, 3, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (33, None, (3, 3, 2, 2, 1)) Pi gives action Peek, but RL gives action Quit
+In state (35, None, (2, 1, 1, 2, 2)) Pi gives action Peek, but RL gives action Quit
+In state (31, 0, (2, 3, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (34, 1, (2, 2, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (32, 3, (2, 1, 0, 3, 2)) Pi gives action Take, but RL gives action Quit
+In state (36, 1, (1, 1, 1, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (32, 3, (0, 1, 0, 2, 3)) Pi gives action Take, but RL gives action Quit
+In state (39, 0, (2, 2, 2, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (31, 0, (1, 0, 3, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, 2, (1, 3, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (33, 1, (3, 2, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (34, None, (0, 3, 0, 1, 3)) Pi gives action Peek, but RL gives action Quit
+In state (39, 0, (1, 2, 1, 0, 3)) Pi gives action Take, but RL gives action Quit
+In state (34, 4, (3, 3, 3, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (31, None, (0, 3, 1, 2, 2)) Pi gives action Peek, but RL gives action Quit
+In state (31, None, (0, 3, 3, 2, 1)) Pi gives action Peek, but RL gives action Quit
+In state (36, 1, (2, 3, 0, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (36, 0, (2, 0, 3, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (31, 2, (3, 2, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, 0, (1, 1, 0, 2, 3)) Pi gives action Take, but RL gives action Quit
+In state (31, 3, (0, 3, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (40, 0, (3, 3, 1, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (34, 1, (0, 1, 0, 3, 2)) Pi gives action Take, but RL gives action Quit
+In state (38, 0, (3, 2, 0, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, 1, (3, 1, 2, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, 0, (2, 1, 3, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (32, 0, (3, 0, 2, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (34, 2, (3, 3, 1, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (32, 0, (2, 2, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (36, 1, (1, 2, 0, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (39, 0, (1, 0, 1, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (37, 1, (0, 1, 1, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (34, 0, (1, 1, 1, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (32, None, (0, 2, 1, 1, 3)) Pi gives action Peek, but RL gives action Quit
+In state (37, 3, (1, 3, 2, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (38, 0, (3, 0, 2, 0, 3)) Pi gives action Take, but RL gives action Quit
+In state (40, 1, (1, 2, 2, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (38, 0, (2, 2, 3, 0, 2)) Pi gives action Take, but RL gives action Peek
+In state (35, 1, (3, 3, 2, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (31, None, (2, 3, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (38, 2, (3, 2, 2, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (31, 2, (2, 3, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (34, 0, (1, 0, 2, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (35, 0, (3, 0, 3, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (39, None, (2, 2, 2, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (35, 0, (3, 3, 0, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (35, 2, (1, 3, 2, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, 1, (3, 3, 0, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (32, 1, (2, 3, 2, 1, 2)) Pi gives action Take, but RL gives action Peek
+In state (33, 4, (0, 1, 3, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (31, 3, (1, 0, 3, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (32, 2, (2, 1, 2, 3, 1)) Pi gives action Take, but RL gives action Peek
+In state (32, 0, (2, 1, 0, 3, 2)) Pi gives action Take, but RL gives action Quit
+In state (37, 0, (2, 2, 0, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (33, 0, (3, 3, 2, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (36, 1, (0, 2, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (35, 0, (2, 1, 1, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (31, None, (0, 2, 2, 3, 1)) Pi gives action Peek, but RL gives action Quit
+In state (34, 1, (1, 1, 3, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (31, 3, (1, 1, 0, 2, 3)) Pi gives action Take, but RL gives action Quit
+In state (39, 0, (1, 1, 2, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (32, 2, (2, 2, 1, 2, 2)) Pi gives action Take, but RL gives action Peek
+In state (40, 3, (3, 3, 1, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (36, 3, (0, 2, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (39, 2, (1, 2, 3, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (31, 3, (0, 2, 2, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (38, 2, (2, 2, 1, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (40, None, (1, 3, 3, 2, 0)) Pi gives action Quit, but RL gives action Peek
+In state (37, 1, (3, 1, 0, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (37, 1, (3, 1, 2, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (36, 4, (1, 3, 1, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (35, 2, (3, 0, 1, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (39, 1, (0, 1, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (33, None, (2, 1, 1, 1, 3)) Pi gives action Peek, but RL gives action Quit
+In state (32, 2, (0, 0, 1, 3, 2)) Pi gives action Take, but RL gives action Quit
+In state (35, 4, (2, 3, 1, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (34, None, (0, 2, 3, 2, 1)) Pi gives action Peek, but RL gives action Quit
+In state (35, None, (0, 1, 1, 1, 3)) Pi gives action Peek, but RL gives action Quit
+In state (33, 2, (1, 1, 2, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (36, 1, (1, 3, 1, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (32, 1, (0, 1, 0, 2, 3)) Pi gives action Take, but RL gives action Quit
+In state (39, 2, (3, 0, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (39, 0, (2, 3, 1, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (37, 1, (2, 2, 2, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (32, 4, (2, 3, 2, 1, 2)) Pi gives action Quit, but RL gives action Peek
+In state (34, 0, (3, 2, 2, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (39, 3, (2, 2, 2, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (34, None, (3, 1, 1, 2, 2)) Pi gives action Peek, but RL gives action Quit
+In state (34, None, (3, 1, 3, 2, 1)) Pi gives action Peek, but RL gives action Quit
+In state (33, 1, (0, 1, 3, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (31, None, (1, 2, 1, 1, 3)) Pi gives action Peek, but RL gives action Quit
+In state (31, 4, (1, 1, 2, 2, 2)) Pi gives action Quit, but RL gives action Peek
+In state (34, 0, (1, 0, 0, 2, 3)) Pi gives action Take, but RL gives action Quit
+In state (32, None, (1, 0, 2, 1, 3)) Pi gives action Peek, but RL gives action Quit
+In state (33, 0, (2, 0, 0, 2, 3)) Pi gives action Take, but RL gives action Quit
+In state (39, None, (3, 3, 2, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (32, 2, (1, 1, 3, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (35, 2, (1, 2, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (37, 2, (3, 2, 3, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (38, 3, (1, 1, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (40, None, (3, 1, 3, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (37, 1, (1, 3, 2, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (38, 2, (0, 1, 2, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (36, 0, (3, 3, 3, 1, 1)) Pi gives action Take, but RL gives action Quit
+In state (35, 0, (2, 2, 0, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (34, 2, (2, 0, 3, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (31, None, (0, 2, 0, 3, 2)) Pi gives action Peek, but RL gives action Quit
+In state (31, 3, (3, 2, 1, 2, 2)) Pi gives action Take, but RL gives action Peek
+In state (35, 2, (0, 1, 3, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (32, 3, (3, 0, 0, 2, 3)) Pi gives action Take, but RL gives action Quit
+In state (35, 4, (0, 2, 2, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (36, 0, (2, 1, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (36, 1, (3, 1, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (38, 1, (0, 3, 2, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (33, 1, (0, 3, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (34, 2, (0, 3, 2, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (31, 3, (0, 2, 0, 3, 2)) Pi gives action Take, but RL gives action Quit
+In state (32, 2, (1, 3, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (32, 1, (3, 1, 3, 1, 2)) Pi gives action Take, but RL gives action Peek
+In state (40, 0, (1, 3, 3, 2, 0)) Pi gives action Quit, but RL gives action Peek
+In state (33, 1, (1, 2, 1, 2, 2)) Pi gives action Take, but RL gives action Peek
+In state (33, 0, (3, 2, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (36, 0, (1, 1, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (33, None, (3, 3, 0, 2, 2)) Pi gives action Peek, but RL gives action Quit
+In state (36, 0, (2, 3, 2, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (31, 0, (3, 1, 0, 3, 2)) Pi gives action Take, but RL gives action Quit
+In state (34, 1, (2, 2, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (37, 1, (1, 3, 0, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (39, 2, (2, 3, 3, 2, 0)) Pi gives action Quit, but RL gives action Peek
+In state (33, 2, (2, 1, 3, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (32, 0, (3, 2, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (35, 1, (3, 1, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (40, 4, (3, 1, 1, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (37, 1, (1, 1, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (36, None, (3, 3, 1, 1, 2)) Pi gives action Peek, but RL gives action Quit
+In state (36, None, (3, 3, 3, 1, 1)) Pi gives action Peek, but RL gives action Quit
+In state (32, 2, (0, 2, 3, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (38, 0, (1, 2, 0, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (38, None, (3, 2, 2, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (34, 0, (3, 1, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (40, 3, (2, 0, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (37, 2, (3, 2, 1, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (32, 0, (1, 0, 2, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (31, 2, (2, 0, 2, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (35, None, (1, 3, 2, 2, 1)) Pi gives action Peek, but RL gives action Quit
+In state (36, None, (2, 1, 2, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (38, 0, (1, 1, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (33, 4, (3, 0, 3, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (38, 0, (1, 1, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (31, 3, (0, 3, 1, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (32, 2, (3, 1, 1, 1, 3)) Pi gives action Take, but RL gives action Peek
+In state (40, 0, (3, 1, 3, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (32, 0, (3, 0, 0, 2, 3)) Pi gives action Take, but RL gives action Quit
+In state (36, 0, (3, 2, 0, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (34, None, (2, 3, 0, 2, 2)) Pi gives action Peek, but RL gives action Quit
+In state (33, 2, (2, 2, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (35, 2, (2, 2, 2, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (35, 1, (0, 2, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (31, None, (3, 1, 0, 3, 2)) Pi gives action Peek, but RL gives action Quit
+In state (35, 1, (2, 3, 3, 0, 2)) Pi gives action Take, but RL gives action Peek
+In state (36, 0, (1, 3, 3, 0, 2)) Pi gives action Take, but RL gives action Peek
+In state (32, 4, (3, 1, 3, 1, 2)) Pi gives action Quit, but RL gives action Peek
+In state (40, 3, (1, 3, 3, 2, 0)) Pi gives action Quit, but RL gives action Peek
+In state (37, 2, (2, 1, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (36, 1, (0, 3, 0, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (36, 3, (2, 3, 2, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (32, 3, (0, 2, 1, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (34, 1, (0, 1, 2, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, 3, (2, 3, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (40, None, (2, 3, 2, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (37, 0, (1, 0, 3, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (38, 1, (3, 3, 3, 2, 0)) Pi gives action Quit, but RL gives action Peek
+In state (35, 1, (2, 1, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (38, None, (2, 2, 1, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (34, 2, (3, 3, 3, 0, 2)) Pi gives action Take, but RL gives action Peek
+In state (35, 2, (2, 0, 2, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (32, None, (0, 0, 1, 3, 2)) Pi gives action Peek, but RL gives action Quit
+In state (37, 4, (1, 1, 2, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (32, 3, (2, 2, 1, 2, 2)) Pi gives action Take, but RL gives action Peek
+In state (31, 2, (3, 1, 2, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (33, 0, (3, 3, 0, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (33, None, (1, 1, 2, 3, 1)) Pi gives action Peek, but RL gives action Quit
+In state (31, 0, (1, 2, 1, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (32, 1, (2, 2, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (39, 0, (3, 3, 0, 0, 3)) Pi gives action Take, but RL gives action Quit
+In state (39, 0, (3, 3, 2, 0, 2)) Pi gives action Take, but RL gives action Peek
+In state (34, 1, (1, 1, 1, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (32, 3, (0, 0, 1, 3, 2)) Pi gives action Take, but RL gives action Quit
+In state (40, 2, (1, 2, 2, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (33, 2, (0, 3, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (35, 4, (1, 0, 3, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (34, 0, (1, 2, 2, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (33, None, (1, 3, 0, 1, 3)) Pi gives action Peek, but RL gives action Quit
+In state (38, 0, (3, 2, 2, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (35, None, (1, 3, 0, 2, 2)) Pi gives action Peek, but RL gives action Quit
+In state (35, 0, (1, 3, 2, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (33, 3, (3, 2, 3, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (32, 1, (2, 1, 0, 3, 2)) Pi gives action Take, but RL gives action Quit
+In state (33, 4, (1, 2, 1, 2, 2)) Pi gives action Quit, but RL gives action Peek
+In state (37, None, (3, 2, 3, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (37, 1, (2, 2, 0, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (31, None, (3, 2, 3, 2, 1)) Pi gives action Peek, but RL gives action Quit
+In state (32, 0, (2, 1, 2, 3, 1)) Pi gives action Take, but RL gives action Peek
+In state (34, 0, (2, 3, 0, 2, 2)) Pi gives action Take, but RL gives action Quit
+In state (38, None, (0, 1, 2, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (35, 4, (3, 1, 2, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (35, None, (0, 1, 3, 1, 2)) Pi gives action Peek, but RL gives action Quit
+In state (32, 3, (0, 1, 2, 2, 2)) Pi gives action Take, but RL gives action Peek
+In state (31, 4, (2, 1, 3, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (31, 1, (1, 1, 0, 2, 3)) Pi gives action Take, but RL gives action Quit
+In state (35, 2, (1, 2, 1, 3, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, 1, (1, 1, 2, 2, 2)) Pi gives action Take, but RL gives action Peek
+In state (39, 0, (3, 1, 2, 2, 1)) Pi gives action Take, but RL gives action Quit
+In state (31, 3, (1, 2, 1, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (32, 0, (2, 2, 1, 2, 2)) Pi gives action Take, but RL gives action Peek
+In state (32, 3, (1, 0, 2, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (40, 1, (3, 3, 1, 3, 0)) Pi gives action Quit, but RL gives action Peek
+In state (36, 1, (0, 2, 3, 3, 0)) Pi gives action Take, but RL gives action Peek
+In state (40, 0, (2, 3, 2, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (39, 0, (1, 2, 3, 0, 2)) Pi gives action Take, but RL gives action Peek
+In state (37, 1, (0, 3, 3, 0, 2)) Pi gives action Take, but RL gives action Peek
+In state (32, None, (1, 3, 1, 3, 1)) Pi gives action Peek, but RL gives action Quit
+In state (38, 0, (2, 2, 1, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (38, 4, (2, 2, 3, 0, 2)) Pi gives action Quit, but RL gives action Peek
+In state (31, None, (2, 3, 1, 3, 1)) Pi gives action Peek, but RL gives action Quit
+In state (31, 1, (2, 1, 3, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (36, 2, (1, 3, 1, 0, 3)) Pi gives action Quit, but RL gives action Peek
+In state (35, 0, (3, 0, 1, 1, 3)) Pi gives action Take, but RL gives action Quit
+In state (35, 2, (2, 3, 1, 0, 3)) Pi gives action Take, but RL gives action Peek
+In state (36, 0, (3, 3, 1, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (33, 2, (1, 3, 2, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (31, 0, (3, 3, 2, 1, 2)) Pi gives action Take, but RL gives action Peek
+In state (34, 1, (3, 2, 2, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (39, 0, (3, 2, 1, 1, 2)) Pi gives action Take, but RL gives action Quit
+In state (33, 2, (1, 2, 3, 2, 1)) Pi gives action Take, but RL gives action Quit
+
+ % of different actions = 23.02367941712204%
+weight (action Take with total 0) =  -1.4434946028168645 
+weight (action Takewhile 3cards with index 0 remain) =  1.0585532081697213 
+weight (action Takewhile 3cards with index 1 remain) =  1.1175790750492027 
+weight (action Takewhile 3cards with index 2 remain) =  1.8666811407592538 
+weight (action Takewhile 3cards with index 3 remain) =  4.459424156190601 
+weight (action Takewhile 3cards with index 4 remain) =  5.225931620830147 
+weight (action Take while cards with index 0 remain) =  2.412521789826143 
+weight (action Take while cards with index 1 remain) =  2.5305199270070617 
+weight (action Take while cards with index 2 remain) =  3.5032144060625163 
+weight (action Take while cards with index 3 remain) =  7.321466544363251 
+weight (action Take while cards with index 4 remain) =  7.68295191039974 
+weight (action Peek with total 0) =  1.396894212765589 
+weight (action Peekwhile 3cards with index 0 remain) =  1.105930647646018 
+weight (action Peekwhile 3cards with index 1 remain) =  0.8945195731505158 
+weight (action Peekwhile 3cards with index 2 remain) =  0.9882466079049791 
+weight (action Peekwhile 3cards with index 3 remain) =  2.2660591107552026 
+weight (action Peekwhile 3cards with index 4 remain) =  2.524140134414883 
+weight (action Peek while cards with index 0 remain) =  3.376576754059181 
+weight (action Peek while cards with index 1 remain) =  4.022656140180409 
+weight (action Peek while cards with index 2 remain) =  4.47166827455497 
+weight (action Peek while cards with index 3 remain) =  6.981725895617342 
+weight (action Peek while cards with index 4 remain) =  6.999702701583356 
+weight (action Quit with total 0) =  -1.8093742952385525 
+weight (action Quitwhile 3cards with index 0 remain) =  0.5010280624832473 
+weight (action Quitwhile 3cards with index 1 remain) =  -1.9664844461658109 
+weight (action Quitwhile 3cards with index 2 remain) =  -4.1559040117759425 
+weight (action Quitwhile 3cards with index 3 remain) =  -5.264474232471493 
+weight (action Quitwhile 3cards with index 4 remain) =  -6.80162710337972 
+weight (action Quit while cards with index 0 remain) =  4.359603076038963 
+weight (action Quit while cards with index 1 remain) =  2.7857552869052467 
+weight (action Quit while cards with index 2 remain) =  1.4467556015348007 
+weight (action Quit while cards with index 3 remain) =  6.010173374268842 
+weight (action Quit while cards with index 4 remain) =  6.575883776439537 
+weight (action Take with total 3) =  -1.0828275254674695 
+weight (action Takewhile 2cards with index 1 remain) =  0.9595638744213721 
+weight (action Peek with total 3) =  0.8782511678659185 
+weight (action Peekwhile 2cards with index 1 remain) =  1.4451296075176565 
+weight (action Quit with total 3) =  -2.2590685840894507 
+weight (action Quitwhile 2cards with index 1 remain) =  1.103787939041262 
+weight (action Take with total 4) =  -0.9316581166103823 
+weight (action Takewhile 2cards with index 0 remain) =  1.0224305000853986 
+weight (action Peek with total 4) =  0.49570800487347366 
+weight (action Peekwhile 2cards with index 0 remain) =  1.2905806715995378 
+weight (action Quit with total 4) =  -1.7112644263152434 
+weight (action Quitwhile 2cards with index 0 remain) =  1.4898204393001968 
+weight (action Take with total 12) =  0.01084905737983161 
+weight (action Takewhile 2cards with index 3 remain) =  3.2250111001455912 
+weight (action Peek with total 12) =  -0.3274163924438387 
+weight (action Peekwhile 2cards with index 3 remain) =  2.9318581369162935 
+weight (action Quit with total 12) =  -1.3525779303060375 
+weight (action Quitwhile 2cards with index 3 remain) =  2.134967310530237 
+weight (action Take with total 22) =  1.9855944352814086 
+weight (action Takewhile 2cards with index 4 remain) =  3.7002423752355176 
+weight (action Peek with total 22) =  -0.4461570800665419 
+weight (action Peekwhile 2cards with index 4 remain) =  3.148698247511757 
+weight (action Quit with total 22) =  -0.14002312130779512 
+weight (action Quitwhile 2cards with index 4 remain) =  2.3211536166590943 
+weight (action Take with total 27) =  4.131317868113639 
+weight (action Takewhile 2cards with index 2 remain) =  1.602786096720234 
+weight (action Peek with total 27) =  0.19992226120582743 
+weight (action Peekwhile 2cards with index 2 remain) =  1.9379164569486422 
+weight (action Quit with total 27) =  1.2837187253080997 
+weight (action Quitwhile 2cards with index 2 remain) =  0.5234010967714637 
+weight (action Take with total 32) =  -1.4944521017038346 
+weight (action Takewhile 1cards with index 2 remain) =  0.03374716858308738 
+weight (action Peek with total 32) =  -0.6298581515195795 
+weight (action Peekwhile 1cards with index 2 remain) =  1.5455052097013404 
+weight (action Quit with total 32) =  0.9961484853251277 
+weight (action Quitwhile 1cards with index 2 remain) =  5.079258516539258 
+weight (action Take with total 37) =  -4.77243853260201 
+weight (action Takewhile 0cards with index 2 remain) =  1.2005598743578036 
+weight (action Peek with total 37) =  0.6503437768875231 
+weight (action Peekwhile 0cards with index 2 remain) =  1.3156271029341455 
+weight (action Quit with total 37) =  2.2738218976322777 
+weight (action Quitwhile 0cards with index 2 remain) =  10.029237294048325 
+weight (action Take with total 38) =  -5.091175940210822 
+weight (action Takewhile 1cards with index 0 remain) =  0.3315380815709745 
+weight (action Peek with total 38) =  0.7053409953142968 
+weight (action Peekwhile 1cards with index 0 remain) =  0.9800654348136244 
+weight (action Quit with total 38) =  2.589002994445534 
+weight (action Quitwhile 1cards with index 0 remain) =  2.36875457425555 
+weight (action Take with total 41) =  0.0 
+weight (action Peek with total 41) =  0.0 
+weight (action Quit with total 41) =  0.0 
+weight (action Take with total 1) =  -1.2700776262765123 
+weight (action Peek with total 1) =  1.0812627781905468 
+weight (action Quit with total 1) =  -2.4253734039684125 
+weight (action Take with total 9) =  -0.3961019654138972 
+weight (action Peek with total 9) =  0.852032675424502 
+weight (action Quit with total 9) =  1.559553166856919 
+weight (action Take with total 15) =  0.6152247976251967 
+weight (action Takewhile 1cards with index 1 remain) =  0.45337697753644 
+weight (action Peek with total 15) =  -0.2875942034037799 
+weight (action Peekwhile 1cards with index 1 remain) =  1.6830069595122448 
+weight (action Quit with total 15) =  -0.9762377663003582 
+weight (action Quitwhile 1cards with index 1 remain) =  3.6484517940297936 
+weight (action Take with total 25) =  3.4431652276469893 
+weight (action Peek with total 25) =  0.11768879577962602 
+weight (action Quit with total 25) =  6.229619568475352 
+weight (action Take with total 10) =  -0.2344777469102726 
+weight (action Peek with total 10) =  -0.19004136548573144 
+weight (action Quit with total 10) =  -2.3433535649014505 
+weight (action Take with total 13) =  0.14858721650194112 
+weight (action Peek with total 13) =  -0.4830241843858069 
+weight (action Quit with total 13) =  -1.9692319123663038 
+weight (action Take with total 21) =  2.0150357618431896 
+weight (action Peek with total 21) =  -0.4751059544935189 
+weight (action Quit with total 21) =  -0.1465060482397571 
+weight (action Take with total 29) =  5.777028929238539 
+weight (action Takewhile 1cards with index 3 remain) =  -0.36296871197273434 
+weight (action Peek with total 29) =  0.6922934334678796 
+weight (action Peekwhile 1cards with index 3 remain) =  1.7838086479458486 
+weight (action Quit with total 29) =  2.6019317789257466 
+weight (action Quitwhile 1cards with index 3 remain) =  9.139680296210207 
+weight (action Take with total 42) =  0.0 
+weight (action Peek with total 42) =  0.0 
+weight (action Quit with total 42) =  0.0 
+weight (action Take with total 8) =  -0.4759834871944824 
+weight (action Peek with total 8) =  0.36465495654372554 
+weight (action Quit with total 8) =  -2.233495557745262 
+weight (action Take with total 14) =  0.44720767552223084 
+weight (action Peek with total 14) =  -0.598117640461989 
+weight (action Quit with total 14) =  -1.3538643971347075 
+weight (action Take with total 5) =  -0.934211843719279 
+weight (action Peek with total 5) =  0.7342668212667903 
+weight (action Quit with total 5) =  -1.6463872136040871 
+weight (action Take with total 18) =  1.4257355958601974 
+weight (action Peek with total 18) =  -0.29285318003113575 
+weight (action Quit with total 18) =  -0.8268803767616485 
+weight (action Take with total 23) =  2.2341255854517357 
+weight (action Peek with total 23) =  -0.4778172242973437 
+weight (action Quit with total 23) =  0.3686492366557238 
+weight (action Take with total 16) =  1.0393276658531165 
+weight (action Peek with total 16) =  -0.5870234105110449 
+weight (action Quit with total 16) =  -1.190279725204319 
+weight (action Take with total 26) =  4.312229134821 
+weight (action Peek with total 26) =  0.3053788096780384 
+weight (action Quit with total 26) =  1.6018543559075606 
+weight (action Take with total 31) =  -0.9379995521976763 
+weight (action Peek with total 31) =  -1.9626400210230732 
+weight (action Quit with total 31) =  0.8291215557363745 
+weight (action Take with total 36) =  -6.214423375030619 
+weight (action Peek with total 36) =  1.2168622698220657 
+weight (action Quit with total 36) =  3.393605066763939 
+weight (action Take with total 44) =  0.0 
+weight (action Peek with total 44) =  0.0 
+weight (action Quit with total 44) =  0.0 
+weight (action Take with total 11) =  -0.10793525374487188 
+weight (action Peek with total 11) =  -0.5808819183870152 
+weight (action Quit with total 11) =  -2.5556817034251287 
+weight (action Take with total 2) =  -0.8560787513675892 
+weight (action Peek with total 2) =  -0.2687400676197446 
+weight (action Quit with total 2) =  -0.7150004232968246 
+weight (action Take with total 6) =  -0.7232644730032871 
+weight (action Peek with total 6) =  0.2386975048509617 
+weight (action Quit with total 6) =  -1.8609916282204595 
+weight (action Takewhile 1cards with index 4 remain) =  -1.243222085665846 
+weight (action Peekwhile 1cards with index 4 remain) =  1.3268643196567376 
+weight (action Quitwhile 1cards with index 4 remain) =  11.056357263160223 
+weight (action Take with total 45) =  0.0 
+weight (action Peek with total 45) =  0.0 
+weight (action Quit with total 45) =  0.0 
+weight (action Take with total 17) =  1.0933241222110348 
+weight (action Peek with total 17) =  -0.14285741261352675 
+weight (action Quit with total 17) =  -1.0070237089524936 
+weight (action Take with total 7) =  -0.6020712807944688 
+weight (action Peek with total 7) =  -0.043915176909642785 
+weight (action Quit with total 7) =  -0.9005650092249434 
+weight (action Take with total 20) =  2.0500904713754786 
+weight (action Peek with total 20) =  -0.30378399822803853 
+weight (action Quit with total 20) =  0.6584176270685053 
+weight (action Take with total 30) =  5.587468669626021 
+weight (action Peek with total 30) =  0.4058236837045238 
+weight (action Quit with total 30) =  2.134272108739441 
+weight (action Take with total 19) =  1.8282312492231347 
+weight (action Peek with total 19) =  -0.5710972004088343 
+weight (action Quit with total 19) =  -0.6454534559238057 
+weight (action Take with total 24) =  3.2712750255089826 
+weight (action Takewhile 0cards with index 1 remain) =  2.173254353413345 
+weight (action Peek with total 24) =  0.27364629185987654 
+weight (action Peekwhile 0cards with index 1 remain) =  1.764639237308697 
+weight (action Quit with total 24) =  1.1693172626268027 
+weight (action Quitwhile 0cards with index 1 remain) =  8.69023760867787 
+weight (action Take with total 28) =  4.860709151777002 
+weight (action Peek with total 28) =  0.28402471050445893 
+weight (action Quit with total 28) =  2.4494268529436174 
+weight (action Take with total 33) =  -3.870220101375972 
+weight (action Takewhile 0cards with index 4 remain) =  -2.9791776299794104 
+weight (action Peek with total 33) =  0.052880585323078357 
+weight (action Peekwhile 0cards with index 4 remain) =  -1.2124073240942495 
+weight (action Quit with total 33) =  1.628695664592675 
+weight (action Quitwhile 0cards with index 4 remain) =  4.9001091191435355 
+weight (action Take with total 43) =  0.0 
+weight (action Peek with total 43) =  0.0 
+weight (action Quit with total 43) =  0.0 
+weight (action Take with total 34) =  -2.7202420729397057 
+weight (action Peek with total 34) =  1.4080262396840064 
+weight (action Quit with total 34) =  3.670716289443049 
+weight (action Take with total 35) =  -1.6093690129405591 
+weight (action Peek with total 35) =  0.6912539858688183 
+weight (action Quit with total 35) =  1.6061449174471267 
+weight (action Take with total 39) =  -2.4002547365621836 
+weight (action Peek with total 39) =  0.8743968130552844 
+weight (action Quit with total 39) =  2.7520341223517253 
+weight (action Take with total 40) =  -3.403995261557535 
+weight (action Peek with total 40) =  0.536569185842473 
+weight (action Quit with total 40) =  1.7485754708645547 
+weight (action Take with total 46) =  0.0 
+weight (action Peek with total 46) =  0.0 
+weight (action Quit with total 46) =  0.0 
+weight (action Takewhile 0cards with index 0 remain) =  2.2912524905942733 
+weight (action Peekwhile 0cards with index 0 remain) =  2.410718623429932 
+weight (action Quitwhile 0cards with index 0 remain) =  7.116389819544117 
+weight (action Takewhile 0cards with index 3 remain) =  -2.617692263942971 
+weight (action Peekwhile 0cards with index 3 remain) =  -1.1944305181282222 
+weight (action Quitwhile 0cards with index 3 remain) =  5.465819521314218 
+weight (action Take with total 48) =  0.0 
+weight (action Peek with total 48) =  0.0 
+weight (action Quit with total 48) =  0.0 
+weight (action Take with total 50) =  0.0 
+weight (action Peek with total 50) =  0.0 
+weight (action Quit with total 50) =  0.0 
+weight (action Take with total 47) =  0.0 
+weight (action Peek with total 47) =  0.0 
+weight (action Quit with total 47) =  0.0 
+weight (action Take with total 49) =  0.0 
+weight (action Peek with total 49) =  0.0 
+weight (action Quit with total 49) =  0.0 
